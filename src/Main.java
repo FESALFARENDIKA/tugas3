@@ -3,7 +3,7 @@
  */
 public class Main {
     /**
-     * @see WaterBoom nyambung refrensi dengan class WaterBoom karena dipindah kesini
+     * @see WaterBoomss nyambung refrensi dengan class WaterBoom karena dipindah kesini
      */
     public static void main(String[] args) {
         Tiket tiketReguler = new Tiket("Reguler", 100000);
