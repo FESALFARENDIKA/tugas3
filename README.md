@@ -1,14 +1,12 @@
 # # tugas2
 # This is a simple project to practice creating documentation in a README file.
 #
-# ## Usage
-# 1. Clone the repository to your local machine.
-# 2. Open the project in your favorite IDE.
-# 3. Run the program to see the output.
+# ## Penggunaan proyek
+# 1. Menghitung tiket dengan menggunakan operator logika
 #
-# ## Dependencies
-# - None
+# ## Cara penggunaan
+# - Jalankan Class Main, jika ingin mengganti tiketnya dapat di ubah inputtan didalam codingannya
 #
 # ## License
-# This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# Simpan dan tutup file README.md
+# Proyek ini dibuat oleh Fesal Farendika untuk tugas Modul
+# Menggunakan Intelij versi 2023 3.8
